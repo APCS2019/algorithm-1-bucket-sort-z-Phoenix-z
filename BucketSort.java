@@ -12,5 +12,5 @@ for (int i = 0; i < b.length; i ++){
   if (b [i] != 0){
     System.out.print( b[i] );
   }
- 
 
+  hhijhjhjj
